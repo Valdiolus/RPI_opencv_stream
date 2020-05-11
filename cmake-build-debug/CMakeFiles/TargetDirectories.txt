@@ -1,0 +1,3 @@
+C:/Users/valdg/CLionProjects/RPI_opencv_stream/cmake-build-debug/CMakeFiles/RPI_opencv_stream.dir
+C:/Users/valdg/CLionProjects/RPI_opencv_stream/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valdg/CLionProjects/RPI_opencv_stream/cmake-build-debug/CMakeFiles/rebuild_cache.dir
