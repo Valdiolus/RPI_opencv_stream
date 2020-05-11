@@ -1,1 +1,1 @@
-gcc -o rpi_opencv_stream main.c `pkg-config --cflags --libs opencv` && ./rpi_opencv_stream
+gcc  main.c -o rpi_opencv_stream `pkg-config --cflags --libs opencv`
